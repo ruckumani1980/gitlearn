@@ -1,2 +1,0 @@
-first line in file1
-second line in file1 from remote rep
